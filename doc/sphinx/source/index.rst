@@ -3,7 +3,7 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-TeVsIc_info_indus_tutorial documentation
+Info_Indus_Tuto
 ========================================
 
 Add your content using ``reStructuredText`` syntax. See the
